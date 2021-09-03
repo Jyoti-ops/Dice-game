@@ -1,1 +1,2 @@
 # Dice-game
+Using HTML,CSS,BOOTSTRAP,JAVASCRIPT
